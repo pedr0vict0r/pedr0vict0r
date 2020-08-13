@@ -1,4 +1,4 @@
-### Hi there 👋
+### Olá, eu sou o Pedro 👋
 
 <!--
 **pedr0vict0r/pedr0vict0r** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+⚡ Gosto muito de desenvolvimento!
+
+Atualmente, sou graduando de Engenharia da Computação na [UFPA](https://portal.ufpa.br "Universidade Federal do Pará") e Desenvolvedor na empresa [Sistemática](http://sicasp.com.br "Sistematica Processamento de Dados LTDA").
+
+Gosto de programar em Java, PHP e JavaScript. 
+
+ps.: Estou testando o novo profile README em breve irei atualizar com mais informações.
