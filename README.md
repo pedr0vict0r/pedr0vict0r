@@ -20,5 +20,3 @@ Here are some ideas to get you started:
 Atualmente, sou graduando de Engenharia da Computação na [UFPA](https://portal.ufpa.br "Universidade Federal do Pará") e Desenvolvedor na empresa [Sistemática](http://sicasp.com.br "Sistematica Processamento de Dados LTDA").
 
 Gosto de programar em Java, PHP e JavaScript e estou me aventurando no Python e Dart.
-
-ps.: Estou testando o novo profile README em breve irei atualizar com mais informações.
