@@ -17,6 +17,6 @@ Here are some ideas to get you started:
 
 ⚡ Apaixonado por desenvolvimento!
 
-Atualmente, sou graduando de Engenharia da Computação na [UFPA](https://portal.ufpa.br "Universidade Federal do Pará") e Desenvolvedor na empresa [Sistemática](http://sicasp.com.br "Sistematica Processamento de Dados LTDA").
+Atualmente, sou graduando de Engenharia da Computação na [UFPA](https://portal.ufpa.br "Universidade Federal do Pará") e Analista de Sistemas na empresa [PD Case](https://www.pdcase.com "PD Case | Fábrica de software, Outsourcing e consultoria").
 
 Gosto de programar em Java, PHP e JavaScript e estou me aventurando no Python e Dart.
