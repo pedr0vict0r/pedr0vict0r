@@ -15,7 +15,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-⚡ Um desenvolvedor de Belém do Pará - Brazil!
+⚡ Apaixonado por desenvolvimento de software!
+
+📫 Belém - Pará - Brasil
 
 Atualmente, sou graduando de Engenharia da Computação na [UFPA](https://portal.ufpa.br "Universidade Federal do Pará") e Analista de Sistemas na empresa [PD Case](https://www.pdcase.com "PD Case | Fábrica de software, Outsourcing e consultoria").
 
