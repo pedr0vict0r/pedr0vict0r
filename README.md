@@ -1,5 +1,5 @@
 ### Olá, eu sou o Pedro 👋
-
+![](https://komarev.com/ghpvc/?username=pedr0vict0r&color=green)
 <!--
 **pedr0vict0r/pedr0vict0r** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-⚡ Apaixonado por desenvolvimento!
+⚡ Um desenvolvedor de Belém do Pará - Brazil!
 
 Atualmente, sou graduando de Engenharia da Computação na [UFPA](https://portal.ufpa.br "Universidade Federal do Pará") e Analista de Sistemas na empresa [PD Case](https://www.pdcase.com "PD Case | Fábrica de software, Outsourcing e consultoria").
 
