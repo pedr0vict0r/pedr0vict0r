@@ -22,3 +22,6 @@ Here are some ideas to get you started:
 Atualmente, sou graduando de Engenharia da Computação na [UFPA](https://portal.ufpa.br "Universidade Federal do Pará") e Analista de Sistemas na empresa [PD Case](https://www.pdcase.com "PD Case | Fábrica de software, Outsourcing e consultoria").
 
 Gosto de programar em Java, PHP e JavaScript e estou me aventurando no Python e Dart.
+
+#### Suporte:
+<p><a href="https://www.buymeacoffee.com/pedronascimento"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="thayanacmamore" /></a></p><br><br>
