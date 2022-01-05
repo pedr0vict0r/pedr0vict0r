@@ -1,4 +1,5 @@
-### Olá, eu sou o Pedro 👋
+### Olá! Eu sou o Pedro! 👋
+### Hi! I'm Pedro! 👋
 ![](https://komarev.com/ghpvc/?username=pedr0vict0r&color=green)
 <!--
 **pedr0vict0r/pedr0vict0r** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,13 +16,20 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+
 ⚡ Apaixonado por desenvolvimento de software!
+
+⚡ Passionate about software development!
+
+
+🔗 [pedronascimento.dev.br](https://pedronascimento.dev.br "Pedro Nascimento")
 
 📫 Belém - Pará - Brasil
 
+<!--
 Atualmente, sou graduando de Engenharia da Computação na [UFPA](https://portal.ufpa.br "Universidade Federal do Pará") e Analista de Sistemas na empresa [PD Case](https://www.pdcase.com "PD Case | Fábrica de software, Outsourcing e consultoria").
 
 Gosto de programar em Java, PHP e JavaScript e estou me aventurando no Python e Dart.
-
+-->
 #### Suporte:
 <p><a href="https://www.buymeacoffee.com/pedronascimento"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="pedronascimento" /></a></p>
