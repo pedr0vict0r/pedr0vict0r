@@ -31,5 +31,3 @@ Atualmente, sou graduando de Engenharia da Computação na [UFPA](https://portal
 
 Gosto de programar em Java, PHP e JavaScript e estou me aventurando no Python e Dart.
 -->
-#### Suporte:
-<p><a href="https://www.buymeacoffee.com/pedronascimento"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="pedronascimento" /></a></p>
